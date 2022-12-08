@@ -40,7 +40,7 @@ asdf install melt latest
 asdf global melt latest
 
 # Now melt commands are available
-melt --version
+melt --help
 ```
 
 Check [asdf](https://github.com/asdf-vm/asdf) readme for more instructions on how to

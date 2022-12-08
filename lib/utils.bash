@@ -4,7 +4,7 @@ set -euo pipefail
 
 GH_REPO="https://github.com/charmbracelet/melt"
 TOOL_NAME="melt"
-TOOL_TEST="melt --version"
+TOOL_TEST="melt --help"
 
 fail() {
   echo -e "asdf-$TOOL_NAME: $*"
